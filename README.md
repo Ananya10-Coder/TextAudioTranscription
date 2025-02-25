@@ -85,3 +85,8 @@ The accuracy of the transcription is evaluated using the **Word Error Rate (WER)
 
 A lower WER indicates better transcription accuracy.
 
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
